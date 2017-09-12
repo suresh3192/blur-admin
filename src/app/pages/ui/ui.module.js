@@ -1,6 +1,7 @@
 /**
  * @author k.danovsky
  * created on 12.01.2016
+ * hi there
  */
 (function () {
   'use strict';
