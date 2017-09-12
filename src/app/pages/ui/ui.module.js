@@ -2,6 +2,7 @@
  * @author k.danovsky
  * created on 12.01.2016
  * hi there
+ * update on 12.09.2017 by suresh 
  */
 (function () {
   'use strict';
